@@ -1,6 +1,6 @@
 fastapi
 uvicorn
 pymongo
-git+https://github.com/InjectiveLabs/sdk-python.git@master#egg=pyinjective
+git+https://github.com/InjectiveLabs/sdk-python.git@master#egg=injective-py
 scikit-learn
 
