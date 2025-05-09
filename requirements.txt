@@ -104,7 +104,7 @@ hyperframe==5.2.0
 idna==2.10
 import-expression==1.1.4
 importlib-metadata==4.6.4
-injective-py @ file:///home/hariharan/sdk-python
+git+https://github.com/InjectiveLabs/sdk-python.git
 iopath==0.1.10
 jeepney==0.7.1
 Jinja2==3.0.3
