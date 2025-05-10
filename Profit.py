@@ -23,7 +23,7 @@ CURRENT_PRICE = 22.0
 
 def fetch_users_from_mongo(vault_name: str):
     client = MongoClient("mongodb+srv://hari2004haran:Hari2004@cluster0.s1sp5.mongodb.net/")
-    db = client["vaultDB"]
+    db = client["VaultDB"]
     collection = db["transactions"]
 
     users = {}
